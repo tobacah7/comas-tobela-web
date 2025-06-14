@@ -1,0 +1,14 @@
+docs/index.html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Comas Tobela Propiedades</title>
+</head>
+<body style="background-color:#0e1a2f; color:white; font-family:sans-serif; text-align:center; padding:50px;">
+  <h1>Bienvenidos a Comas Tobela Propiedades</h1>
+  <p>Tu próxima propiedad te está esperando.</p>
+  <img src="logo.png" alt="Logo" style="height: 120px; margin: 40px auto;">
+</body>
+</html>
